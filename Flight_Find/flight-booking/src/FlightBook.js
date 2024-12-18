@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import airlineLogo from './assets/airline-logo.png';
+import airlineLogo from './assets/airline-logo.jpg';
 import './App.css';
 
 function FlightBook() {
